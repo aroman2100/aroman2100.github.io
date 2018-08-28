@@ -1,11 +1,11 @@
 # Site settings
-author: Alex Roman
-title: 
+author: Alexis M Roman
+title: Coding Journey 
 header-img: img/home-bg.png
 email: elpitbull6989@gmail.com
-copyright_name: Alex Roman
+copyright_name: Alexis M Roman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  developer blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aroman2100
